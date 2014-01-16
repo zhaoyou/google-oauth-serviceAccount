@@ -1,0 +1,8 @@
+{
+  "name": "google-oauth-serviceAccount",
+  "description": "Access Google DataServer OAuth By ServiceAccount",
+  "homepage": "https://github.com/zhaoyou/google-oauth-serviceAccount",
+  "author": "zhaoyou",
+  "version": "0.0.1",
+  "git": "https://github.com/zhaoyou/google-oauth-serviceAccount.git"
+}
